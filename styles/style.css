@@ -1,0 +1,25 @@
+body {
+ margin: 0;
+ overflow: hidden;
+ background-color: black;
+}
+
+canvas {
+ display: block;
+}
+body {
+  margin: 0;
+  overflow: hidden;
+}
+#container {
+  width: 100vw;
+  height: 100vh;
+}
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: black;
+  }
+  canvas {
+    display: block;
+  }
