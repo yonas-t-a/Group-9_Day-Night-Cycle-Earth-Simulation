@@ -10,7 +10,11 @@ A 3D interactive simulation of the Earth, Sun, Moon, and a satellite, built with
 - **Satellite**: 3D GLTF model orbits the Earth and highlights on mouse hover.
 - **Starfield**: 3D background of randomly placed stars.
 - **Camera Controls**: Orbit, zoom, and pan using mouse (OrbitControls).
-- **Responsive**: Resizes to fit your browser window.
+- **Responsive**: Resizes to fit your browser window
+
+## Deployment Link 
+https://group-9day-night-cycle-earth-simula.vercel.app/
+(wait for the loading of the image)
 
 ## Project Structure
 
@@ -26,6 +30,8 @@ A 3D interactive simulation of the Earth, Sun, Moon, and a satellite, built with
 ├── doc.md
 ├── Group_9_Day_Night Earth Simulation_Documentation.pdf
 ├── index.html
+├── js
+│   └── main.js
 └── styles
     └── style.css
 ```
